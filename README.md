@@ -21,4 +21,4 @@ Cybersecurity Awareness Bot is a C# console application designed to educate user
 
 ## Installation
 
-1. Clone the repository:
+1. Clone the repository: 
